@@ -1,0 +1,1045 @@
+[
+  {
+    "text": "Across",
+    "startMs": 50,
+    "endMs": 440,
+    "timestampMs": 440,
+    "confidence": 0.845324
+  },
+  {
+    "text": " the",
+    "startMs": 440,
+    "endMs": 660,
+    "timestampMs": 680,
+    "confidence": 0.997805
+  },
+  {
+    "text": " misty",
+    "startMs": 660,
+    "endMs": 1020,
+    "timestampMs": 880,
+    "confidence": 0.92604
+  },
+  {
+    "text": " moors",
+    "startMs": 1020,
+    "endMs": 1380,
+    "timestampMs": 1260,
+    "confidence": 0.902179
+  },
+  {
+    "text": " of",
+    "startMs": 1380,
+    "endMs": 1520,
+    "timestampMs": 1640,
+    "confidence": 0.997577
+  },
+  {
+    "text": " Ireland,",
+    "startMs": 1520,
+    "endMs": 2200,
+    "timestampMs": 2020,
+    "confidence": 0.940867
+  },
+  {
+    "text": " where",
+    "startMs": 2200,
+    "endMs": 2500,
+    "timestampMs": 2380,
+    "confidence": 0.941381
+  },
+  {
+    "text": " ancient",
+    "startMs": 2500,
+    "endMs": 2930,
+    "timestampMs": 2780,
+    "confidence": 0.965364
+  },
+  {
+    "text": " families",
+    "startMs": 2930,
+    "endMs": 3440,
+    "timestampMs": 3320,
+    "confidence": 0.99041
+  },
+  {
+    "text": " have",
+    "startMs": 3440,
+    "endMs": 3740,
+    "timestampMs": 3620,
+    "confidence": 0.98377
+  },
+  {
+    "text": " lived",
+    "startMs": 3740,
+    "endMs": 4120,
+    "timestampMs": 3880,
+    "confidence": 0.995173
+  },
+  {
+    "text": " for",
+    "startMs": 4120,
+    "endMs": 4340,
+    "timestampMs": 4160,
+    "confidence": 0.994253
+  },
+  {
+    "text": " centuries,",
+    "startMs": 4340,
+    "endMs": 5110,
+    "timestampMs": 4620,
+    "confidence": 0.993212
+  },
+  {
+    "text": " there",
+    "startMs": 5110,
+    "endMs": 5300,
+    "timestampMs": 5320,
+    "confidence": 0.506164
+  },
+  {
+    "text": " is",
+    "startMs": 5300,
+    "endMs": 5400,
+    "timestampMs": 5440,
+    "confidence": 0.984737
+  },
+  {
+    "text": " a",
+    "startMs": 5400,
+    "endMs": 5480,
+    "timestampMs": 5640,
+    "confidence": 0.998171
+  },
+  {
+    "text": " sound",
+    "startMs": 5480,
+    "endMs": 5910,
+    "timestampMs": 5940,
+    "confidence": 0.998548
+  },
+  {
+    "text": " that",
+    "startMs": 5910,
+    "endMs": 6250,
+    "timestampMs": 6200,
+    "confidence": 0.998224
+  },
+  {
+    "text": " chills",
+    "startMs": 6250,
+    "endMs": 6760,
+    "timestampMs": 6460,
+    "confidence": 0.996077
+  },
+  {
+    "text": " the",
+    "startMs": 6760,
+    "endMs": 7020,
+    "timestampMs": 6840,
+    "confidence": 0.998239
+  },
+  {
+    "text": " blood.",
+    "startMs": 7020,
+    "endMs": 7760,
+    "timestampMs": 7100,
+    "confidence": 0.994412
+  },
+  {
+    "text": " When",
+    "startMs": 7760,
+    "endMs": 8030,
+    "timestampMs": 7800,
+    "confidence": 0.999485
+  },
+  {
+    "text": " the",
+    "startMs": 8030,
+    "endMs": 8230,
+    "timestampMs": 8020,
+    "confidence": 0.998205
+  },
+  {
+    "text": " fog",
+    "startMs": 8230,
+    "endMs": 8430,
+    "timestampMs": 8260,
+    "confidence": 0.996694
+  },
+  {
+    "text": " rolls",
+    "startMs": 8430,
+    "endMs": 8770,
+    "timestampMs": 8620,
+    "confidence": 0.991206
+  },
+  {
+    "text": " thick",
+    "startMs": 8770,
+    "endMs": 9110,
+    "timestampMs": 8900,
+    "confidence": 0.995319
+  },
+  {
+    "text": " over",
+    "startMs": 9110,
+    "endMs": 9380,
+    "timestampMs": 9160,
+    "confidence": 0.997931
+  },
+  {
+    "text": " the",
+    "startMs": 9380,
+    "endMs": 9580,
+    "timestampMs": 9360,
+    "confidence": 0.995042
+  },
+  {
+    "text": " heather",
+    "startMs": 9580,
+    "endMs": 10040,
+    "timestampMs": 9440,
+    "confidence": 0.969059
+  },
+  {
+    "text": " and",
+    "startMs": 10040,
+    "endMs": 10240,
+    "timestampMs": 9800,
+    "confidence": 0.770009
+  },
+  {
+    "text": " the",
+    "startMs": 10240,
+    "endMs": 10440,
+    "timestampMs": 10000,
+    "confidence": 0.983798
+  },
+  {
+    "text": " wind",
+    "startMs": 10440,
+    "endMs": 10710,
+    "timestampMs": 10240,
+    "confidence": 0.997615
+  },
+  {
+    "text": " howls",
+    "startMs": 10710,
+    "endMs": 11040,
+    "timestampMs": 10480,
+    "confidence": 0.997708
+  },
+  {
+    "text": " through",
+    "startMs": 11040,
+    "endMs": 11510,
+    "timestampMs": 10880,
+    "confidence": 0.995042
+  },
+  {
+    "text": " castle",
+    "startMs": 11510,
+    "endMs": 11910,
+    "timestampMs": 11260,
+    "confidence": 0.992227
+  },
+  {
+    "text": " ruins,",
+    "startMs": 11910,
+    "endMs": 12460,
+    "timestampMs": 11600,
+    "confidence": 0.988983
+  },
+  {
+    "text": " listen",
+    "startMs": 12460,
+    "endMs": 12760,
+    "timestampMs": 12480,
+    "confidence": 0.98171
+  },
+  {
+    "text": " carefully.",
+    "startMs": 12760,
+    "endMs": 13760,
+    "timestampMs": 13000,
+    "confidence": 0.998087
+  },
+  {
+    "text": " A",
+    "startMs": 13760,
+    "endMs": 13830,
+    "timestampMs": 13780,
+    "confidence": 0.996972
+  },
+  {
+    "text": " woman's",
+    "startMs": 13830,
+    "endMs": 14370,
+    "timestampMs": 13960,
+    "confidence": 0.990418
+  },
+  {
+    "text": " wail",
+    "startMs": 14370,
+    "endMs": 14670,
+    "timestampMs": 14360,
+    "confidence": 0.996065
+  },
+  {
+    "text": " pierces",
+    "startMs": 14670,
+    "endMs": 15210,
+    "timestampMs": 14760,
+    "confidence": 0.990603
+  },
+  {
+    "text": " the",
+    "startMs": 15210,
+    "endMs": 15440,
+    "timestampMs": 15100,
+    "confidence": 0.999291
+  },
+  {
+    "text": " night,",
+    "startMs": 15440,
+    "endMs": 15980,
+    "timestampMs": 15320,
+    "confidence": 0.990325
+  },
+  {
+    "text": " high,",
+    "startMs": 15980,
+    "endMs": 16440,
+    "timestampMs": 15980,
+    "confidence": 0.99066
+  },
+  {
+    "text": " mournful,",
+    "startMs": 16440,
+    "endMs": 17210,
+    "timestampMs": 16360,
+    "confidence": 0.999344
+  },
+  {
+    "text": " and",
+    "startMs": 17210,
+    "endMs": 17440,
+    "timestampMs": 17100,
+    "confidence": 0.998018
+  },
+  {
+    "text": " utterly",
+    "startMs": 17440,
+    "endMs": 17990,
+    "timestampMs": 17500,
+    "confidence": 0.998506
+  },
+  {
+    "text": " inhuman.",
+    "startMs": 17990,
+    "endMs": 18880,
+    "timestampMs": 18020,
+    "confidence": 0.99717
+  },
+  {
+    "text": " This",
+    "startMs": 18880,
+    "endMs": 19210,
+    "timestampMs": 18960,
+    "confidence": 0.998178
+  },
+  {
+    "text": " is",
+    "startMs": 19210,
+    "endMs": 19380,
+    "timestampMs": 19260,
+    "confidence": 0.999195
+  },
+  {
+    "text": " the",
+    "startMs": 19380,
+    "endMs": 19630,
+    "timestampMs": 19500,
+    "confidence": 0.956116
+  },
+  {
+    "text": " Banshee,",
+    "startMs": 19630,
+    "endMs": 20370,
+    "timestampMs": 19720,
+    "confidence": 0.645178
+  },
+  {
+    "text": " the",
+    "startMs": 20370,
+    "endMs": 20620,
+    "timestampMs": 20460,
+    "confidence": 0.982557
+  },
+  {
+    "text": " woman",
+    "startMs": 20620,
+    "endMs": 21040,
+    "timestampMs": 20640,
+    "confidence": 0.860126
+  },
+  {
+    "text": " of",
+    "startMs": 21040,
+    "endMs": 21210,
+    "timestampMs": 20900,
+    "confidence": 0.99883
+  },
+  {
+    "text": " the",
+    "startMs": 21210,
+    "endMs": 21460,
+    "timestampMs": 21100,
+    "confidence": 0.994499
+  },
+  {
+    "text": " fairy",
+    "startMs": 21460,
+    "endMs": 21880,
+    "timestampMs": 21340,
+    "confidence": 0.364956
+  },
+  {
+    "text": " mounds.",
+    "startMs": 21880,
+    "endMs": 22700,
+    "timestampMs": 21620,
+    "confidence": 0.984371
+  },
+  {
+    "text": " Pale",
+    "startMs": 22700,
+    "endMs": 23000,
+    "timestampMs": 22680,
+    "confidence": 0.955299
+  },
+  {
+    "text": " as",
+    "startMs": 23000,
+    "endMs": 23150,
+    "timestampMs": 22940,
+    "confidence": 0.998814
+  },
+  {
+    "text": " death",
+    "startMs": 23150,
+    "endMs": 23520,
+    "timestampMs": 23180,
+    "confidence": 0.964711
+  },
+  {
+    "text": " itself,",
+    "startMs": 23520,
+    "endMs": 24110,
+    "timestampMs": 23720,
+    "confidence": 0.998011
+  },
+  {
+    "text": " her",
+    "startMs": 24110,
+    "endMs": 24330,
+    "timestampMs": 24020,
+    "confidence": 0.998689
+  },
+  {
+    "text": " long",
+    "startMs": 24330,
+    "endMs": 24630,
+    "timestampMs": 24280,
+    "confidence": 0.999184
+  },
+  {
+    "text": " silver",
+    "startMs": 24630,
+    "endMs": 25080,
+    "timestampMs": 24660,
+    "confidence": 0.837647
+  },
+  {
+    "text": " hair",
+    "startMs": 25080,
+    "endMs": 25380,
+    "timestampMs": 25000,
+    "confidence": 0.999241
+  },
+  {
+    "text": " flows",
+    "startMs": 25380,
+    "endMs": 25740,
+    "timestampMs": 25500,
+    "confidence": 0.99445
+  },
+  {
+    "text": " like",
+    "startMs": 25740,
+    "endMs": 26050,
+    "timestampMs": 25840,
+    "confidence": 0.997729
+  },
+  {
+    "text": " mountain",
+    "startMs": 26050,
+    "endMs": 26640,
+    "timestampMs": 26200,
+    "confidence": 0.989942
+  },
+  {
+    "text": " water.",
+    "startMs": 26640,
+    "endMs": 27280,
+    "timestampMs": 26580,
+    "confidence": 0.996109
+  },
+  {
+    "text": " She",
+    "startMs": 27280,
+    "endMs": 27480,
+    "timestampMs": 27360,
+    "confidence": 0.999207
+  },
+  {
+    "text": " sits",
+    "startMs": 27480,
+    "endMs": 27750,
+    "timestampMs": 27560,
+    "confidence": 0.9976
+  },
+  {
+    "text": " by",
+    "startMs": 27750,
+    "endMs": 27880,
+    "timestampMs": 27840,
+    "confidence": 0.997858
+  },
+  {
+    "text": " ancient",
+    "startMs": 27880,
+    "endMs": 28360,
+    "timestampMs": 28220,
+    "confidence": 0.98786
+  },
+  {
+    "text": " standing",
+    "startMs": 28360,
+    "endMs": 28910,
+    "timestampMs": 28660,
+    "confidence": 0.989936
+  },
+  {
+    "text": " stones,",
+    "startMs": 28910,
+    "endMs": 29450,
+    "timestampMs": 29160,
+    "confidence": 0.967892
+  },
+  {
+    "text": " combing",
+    "startMs": 29450,
+    "endMs": 29920,
+    "timestampMs": 29500,
+    "confidence": 0.987718
+  },
+  {
+    "text": " her",
+    "startMs": 29920,
+    "endMs": 30120,
+    "timestampMs": 29820,
+    "confidence": 0.991915
+  },
+  {
+    "text": " hair",
+    "startMs": 30120,
+    "endMs": 30390,
+    "timestampMs": 30080,
+    "confidence": 0.998734
+  },
+  {
+    "text": " with",
+    "startMs": 30390,
+    "endMs": 30660,
+    "timestampMs": 30300,
+    "confidence": 0.99755
+  },
+  {
+    "text": " a",
+    "startMs": 30660,
+    "endMs": 30720,
+    "timestampMs": 30460,
+    "confidence": 0.913907
+  },
+  {
+    "text": " silver",
+    "startMs": 30720,
+    "endMs": 31130,
+    "timestampMs": 30700,
+    "confidence": 0.998411
+  },
+  {
+    "text": " comb,",
+    "startMs": 31130,
+    "endMs": 31530,
+    "timestampMs": 31100,
+    "confidence": 0.998437
+  },
+  {
+    "text": " tears",
+    "startMs": 31530,
+    "endMs": 31870,
+    "timestampMs": 31880,
+    "confidence": 0.987349
+  },
+  {
+    "text": " of",
+    "startMs": 31870,
+    "endMs": 32000,
+    "timestampMs": 32100,
+    "confidence": 0.99768
+  },
+  {
+    "text": " blood",
+    "startMs": 32000,
+    "endMs": 32480,
+    "timestampMs": 32440,
+    "confidence": 0.998312
+  },
+  {
+    "text": " streaming",
+    "startMs": 32480,
+    "endMs": 33120,
+    "timestampMs": 32900,
+    "confidence": 0.992328
+  },
+  {
+    "text": " down",
+    "startMs": 33120,
+    "endMs": 33400,
+    "timestampMs": 33260,
+    "confidence": 0.998342
+  },
+  {
+    "text": " her",
+    "startMs": 33400,
+    "endMs": 33610,
+    "timestampMs": 33540,
+    "confidence": 0.997253
+  },
+  {
+    "text": " ghostly",
+    "startMs": 33610,
+    "endMs": 34110,
+    "timestampMs": 33740,
+    "confidence": 0.996586
+  },
+  {
+    "text": " face.",
+    "startMs": 34110,
+    "endMs": 34640,
+    "timestampMs": 34340,
+    "confidence": 0.999619
+  },
+  {
+    "text": " Her",
+    "startMs": 34640,
+    "endMs": 34920,
+    "timestampMs": 35240,
+    "confidence": 0.996812
+  },
+  {
+    "text": " keening",
+    "startMs": 34920,
+    "endMs": 35580,
+    "timestampMs": 35360,
+    "confidence": 0.924396
+  },
+  {
+    "text": " cry",
+    "startMs": 35580,
+    "endMs": 35860,
+    "timestampMs": 35900,
+    "confidence": 0.998018
+  },
+  {
+    "text": " is",
+    "startMs": 35860,
+    "endMs": 36050,
+    "timestampMs": 36180,
+    "confidence": 0.998475
+  },
+  {
+    "text": " not",
+    "startMs": 36050,
+    "endMs": 36330,
+    "timestampMs": 36440,
+    "confidence": 0.999371
+  },
+  {
+    "text": " rage,",
+    "startMs": 36330,
+    "endMs": 36890,
+    "timestampMs": 36920,
+    "confidence": 0.94696
+  },
+  {
+    "text": " it",
+    "startMs": 36890,
+    "endMs": 37080,
+    "timestampMs": 37380,
+    "confidence": 0.995395
+  },
+  {
+    "text": " is",
+    "startMs": 37080,
+    "endMs": 37270,
+    "timestampMs": 37600,
+    "confidence": 0.997409
+  },
+  {
+    "text": " mourning,",
+    "startMs": 37270,
+    "endMs": 38190,
+    "timestampMs": 37940,
+    "confidence": 0.935012
+  },
+  {
+    "text": " for",
+    "startMs": 38190,
+    "endMs": 38480,
+    "timestampMs": 38700,
+    "confidence": 0.994651
+  },
+  {
+    "text": " she",
+    "startMs": 38480,
+    "endMs": 38760,
+    "timestampMs": 38940,
+    "confidence": 0.998224
+  },
+  {
+    "text": " alone",
+    "startMs": 38760,
+    "endMs": 39220,
+    "timestampMs": 39320,
+    "confidence": 0.991238
+  },
+  {
+    "text": " knows",
+    "startMs": 39220,
+    "endMs": 39700,
+    "timestampMs": 39760,
+    "confidence": 0.994503
+  },
+  {
+    "text": " what",
+    "startMs": 39700,
+    "endMs": 40080,
+    "timestampMs": 40000,
+    "confidence": 0.998742
+  },
+  {
+    "text": " is",
+    "startMs": 40080,
+    "endMs": 40270,
+    "timestampMs": 40160,
+    "confidence": 0.996204
+  },
+  {
+    "text": " coming.",
+    "startMs": 40270,
+    "endMs": 41200,
+    "timestampMs": 40460,
+    "confidence": 0.999249
+  },
+  {
+    "text": " When",
+    "startMs": 41200,
+    "endMs": 41500,
+    "timestampMs": 41260,
+    "confidence": 0.999012
+  },
+  {
+    "text": " the",
+    "startMs": 41500,
+    "endMs": 41720,
+    "timestampMs": 41440,
+    "confidence": 0.997744
+  },
+  {
+    "text": " Banshee",
+    "startMs": 41720,
+    "endMs": 42240,
+    "timestampMs": 41640,
+    "confidence": 0.88833
+  },
+  {
+    "text": " wails",
+    "startMs": 42240,
+    "endMs": 42610,
+    "timestampMs": 42040,
+    "confidence": 0.997586
+  },
+  {
+    "text": " outside",
+    "startMs": 42610,
+    "endMs": 43130,
+    "timestampMs": 42660,
+    "confidence": 0.993964
+  },
+  {
+    "text": " your",
+    "startMs": 43130,
+    "endMs": 43430,
+    "timestampMs": 42940,
+    "confidence": 0.993218
+  },
+  {
+    "text": " window,",
+    "startMs": 43430,
+    "endMs": 44030,
+    "timestampMs": 43320,
+    "confidence": 0.998536
+  },
+  {
+    "text": " death",
+    "startMs": 44030,
+    "endMs": 44400,
+    "timestampMs": 44020,
+    "confidence": 0.981452
+  },
+  {
+    "text": " is",
+    "startMs": 44400,
+    "endMs": 44550,
+    "timestampMs": 44240,
+    "confidence": 0.998582
+  },
+  {
+    "text": " at",
+    "startMs": 44550,
+    "endMs": 44700,
+    "timestampMs": 44440,
+    "confidence": 0.997253
+  },
+  {
+    "text": " your",
+    "startMs": 44700,
+    "endMs": 45000,
+    "timestampMs": 44620,
+    "confidence": 0.998411
+  },
+  {
+    "text": " door.",
+    "startMs": 45000,
+    "endMs": 45560,
+    "timestampMs": 44980,
+    "confidence": 0.998837
+  },
+  {
+    "text": " No",
+    "startMs": 45560,
+    "endMs": 45730,
+    "timestampMs": 45680,
+    "confidence": 0.999371
+  },
+  {
+    "text": " prayer",
+    "startMs": 45730,
+    "endMs": 46230,
+    "timestampMs": 46060,
+    "confidence": 0.997044
+  },
+  {
+    "text": " can",
+    "startMs": 46230,
+    "endMs": 46480,
+    "timestampMs": 46380,
+    "confidence": 0.999035
+  },
+  {
+    "text": " stop",
+    "startMs": 46480,
+    "endMs": 46820,
+    "timestampMs": 46660,
+    "confidence": 0.999504
+  },
+  {
+    "text": " it.",
+    "startMs": 46820,
+    "endMs": 47260,
+    "timestampMs": 46980,
+    "confidence": 0.997699
+  },
+  {
+    "text": " No",
+    "startMs": 47260,
+    "endMs": 47450,
+    "timestampMs": 47380,
+    "confidence": 0.999542
+  },
+  {
+    "text": " door",
+    "startMs": 47450,
+    "endMs": 47840,
+    "timestampMs": 47720,
+    "confidence": 0.998129
+  },
+  {
+    "text": " can",
+    "startMs": 47840,
+    "endMs": 48130,
+    "timestampMs": 47960,
+    "confidence": 0.998609
+  },
+  {
+    "text": " keep",
+    "startMs": 48130,
+    "endMs": 48520,
+    "timestampMs": 48220,
+    "confidence": 0.998723
+  },
+  {
+    "text": " her",
+    "startMs": 48520,
+    "endMs": 48810,
+    "timestampMs": 48380,
+    "confidence": 0.999451
+  },
+  {
+    "text": " out.",
+    "startMs": 48810,
+    "endMs": 49440,
+    "timestampMs": 48700,
+    "confidence": 0.999664
+  },
+  {
+    "text": " Once",
+    "startMs": 49440,
+    "endMs": 49740,
+    "timestampMs": 49540,
+    "confidence": 0.998681
+  },
+  {
+    "text": " you",
+    "startMs": 49740,
+    "endMs": 49970,
+    "timestampMs": 49780,
+    "confidence": 0.999512
+  },
+  {
+    "text": " hear",
+    "startMs": 49970,
+    "endMs": 50270,
+    "timestampMs": 50000,
+    "confidence": 0.996588
+  },
+  {
+    "text": " her",
+    "startMs": 50270,
+    "endMs": 50500,
+    "timestampMs": 50200,
+    "confidence": 0.998921
+  },
+  {
+    "text": " cry,",
+    "startMs": 50500,
+    "endMs": 50880,
+    "timestampMs": 50620,
+    "confidence": 0.999413
+  },
+  {
+    "text": " the",
+    "startMs": 50880,
+    "endMs": 51110,
+    "timestampMs": 50920,
+    "confidence": 0.998967
+  },
+  {
+    "text": " fate",
+    "startMs": 51110,
+    "endMs": 51410,
+    "timestampMs": 51120,
+    "confidence": 0.998727
+  },
+  {
+    "text": " of",
+    "startMs": 51410,
+    "endMs": 51560,
+    "timestampMs": 51320,
+    "confidence": 0.999253
+  },
+  {
+    "text": " your",
+    "startMs": 51560,
+    "endMs": 51860,
+    "timestampMs": 51580,
+    "confidence": 0.997828
+  },
+  {
+    "text": " bloodline",
+    "startMs": 51860,
+    "endMs": 52540,
+    "timestampMs": 51800,
+    "confidence": 0.996497
+  },
+  {
+    "text": " is",
+    "startMs": 52540,
+    "endMs": 52690,
+    "timestampMs": 52320,
+    "confidence": 0.99811
+  },
+  {
+    "text": " sealed.",
+    "startMs": 52690,
+    "endMs": 53440,
+    "timestampMs": 52720,
+    "confidence": 0.997493
+  },
+  {
+    "text": " Say",
+    "startMs": 53440,
+    "endMs": 53700,
+    "timestampMs": 53520,
+    "confidence": 0.803857
+  },
+  {
+    "text": " your",
+    "startMs": 53700,
+    "endMs": 54050,
+    "timestampMs": 53720,
+    "confidence": 0.997299
+  },
+  {
+    "text": " goodbyes.",
+    "startMs": 54050,
+    "endMs": 55040,
+    "timestampMs": 53900,
+    "confidence": 0.985767
+  },
+  {
+    "text": " comes",
+    "startMs": 55040,
+    "endMs": 55510,
+    "timestampMs": 55440,
+    "confidence": 0.714907
+  },
+  {
+    "text": " before",
+    "startMs": 55510,
+    "endMs": 56080,
+    "timestampMs": 55920,
+    "confidence": 0.99846
+  },
+  {
+    "text": " sunrise.",
+    "startMs": 56080,
+    "endMs": 57040,
+    "timestampMs": 56560,
+    "confidence": 0.995019
+  }
+]

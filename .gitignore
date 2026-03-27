@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+dist/
+out/
+*.log
+.remotion/
+build/
+whisper.cpp/
+public/
+.idea
